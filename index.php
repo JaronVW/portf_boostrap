@@ -9,13 +9,13 @@ require "include/header.php"; ?>
         <div class="row">
             <div class="col-md-8">
                 <p>
-                    Hoi ik ben Jaron van Well, ik ben 18 jaar oud en ik doe de opleiding software
-                    developer op het Grafisch Lyceum Rotterdam. Mijn vrije tijd besteed ik graag aan gamen ook vind ik
-                    het leuk om af en toe te skateboarden.
+                    Hallo, mijn naam is Jaron ik ben 18 jaar en ik woon in Dordrecht. Al van kinds af
+                    aan ben ik gefascineerd door computers en technologie. Mijn vrije tijd besteed ik graag aan gamenen
+                    vind ik het leuk om af en toe te skateboarden.
                 </p>
-                <p class="">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad deserunt praesentium in sapiente
-                    repellendus quasi necessitatibus corrupti vel quam a!
+                <p >
+                    Op deze website staat wat van mijn werk dat ik zowel alleen als met anderen heb gemaakt.
+                    Ook is het mogelijk mij te bereiken via email
                 </p>
             </div>
             <figure class="d-none d-md-block  col-md-3 img-fluid  p-5 p-md-0  ">

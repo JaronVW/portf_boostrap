@@ -5,7 +5,7 @@ require "include/header.php"; ?>
 
 <main class="mt-5">
     <div class="paragraph mt-3 mb-3  ">
-        <h2>Mijn werk</h2>
+        <h2>Projects</h2>
         <div class="row">
             <div class="col-md-8">
                 <p>
@@ -16,12 +16,11 @@ require "include/header.php"; ?>
             <div class="col-md-8">
            
               
-                   <ul>
-                      <li><a href=""></a></li>
-                      <li><a href=""></a></li>
-                      <li><a href=""></a></li>
-                      <li><a href=""></a></li>
-                      <li><a href=""></a></li>
+                   <ul class="list" >
+                        <li><a href="https://github.com/SebastianTramper/Ferumbras">Ferumbras (work in progress)</a></li>
+                         <li><a href="https://github.com/SebastianTramper/SnoepjesKoning">snoepjeskoning (work in progress)</a></li>
+                         <li><a href="../crud">PDO CRUD system</a></li>
+                         <li><a href="../pokedex">PokeDex</a></li>
                    </ul>
               
             </div>
@@ -29,11 +28,7 @@ require "include/header.php"; ?>
 
 
         </div>
-        <div class="row">
 
-
-
-        </div>
 
     </div>
 </main>

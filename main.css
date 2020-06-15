@@ -14,6 +14,15 @@
     h1,h2,h3,h4 {
         color : white;
     }
+    label {
+        color: white
+    }
+    .list a {
+        color: white
+    }
+    .list li {
+        color: white;
+    }
 }
 
 @media screen and (min-width: 574px) {
@@ -24,6 +33,28 @@
     h1,h2,h3,h4 {
         color : rgb(91, 99, 172);
     }
+    label {
+        color: rgb(91, 99, 172);
+    }
+    .list a {
+        color: rgb(91, 99, 172);
+    }
+
+    .list li {
+        color: rgb(91, 99, 172) ;
+    }
+}
+
+
+.list a {
+    text-decoration-color: rgb(91, 99, 172);
+    transition: 0.5s;
+}
+.list a:hover {
+    text-decoration: none;
+    transition: 0.5s;
+    margin-left: 5px;
+    color: rgb(77, 83, 143);
 }
 
 
@@ -45,3 +76,9 @@ html {
 h1 {
     font-size: 3.5em;
 }
+main {
+    min-height: 420px;
+}
+/* input, label {
+    max-width: 80%; */
+

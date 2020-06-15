@@ -34,14 +34,14 @@
                             <li id="home" class="nav-item ">
                                 <a class="nav-link" href="index.php">Home </a>
                             </li>
-                            <li id="home" class="nav-item ">
-                                <a class="nav-link" href="#">Skills</a>
+                            <li id="skills" class="nav-item ">
+                                <a class="nav-link" href="skills.php">Skills</a>
                             </li>
                             <li id="projects" class="nav-item  ">
                                 <a class="nav-link" href="projects.php">Projects</a>
                             </li>
                             <li id="contact" class="nav-item  ">
-                                <a class="nav-link" href="#">Contact  </a>
+                                <a class="nav-link" href="contact.php">Contact  </a>
                             </li>
 
                         </ul>
